@@ -1,0 +1,58 @@
+What will be shaping InfoSec in 2018:
+
+data - and analytics - at scale. Sheer volume of data and applying analytics
+At the center: "New IT" - could computing revolutionizing IT
+At the edge: All kinds of new "smart" endpoints
+
+Forces in opposition that create tension:
+
+Cloud vs legacy/hybrid
+cloud vs IOT
+
+Top 5 most common security projects:
+Security awareness initiative (teaching people about spam, etc)
+Security info and event management (SIEM)
+Endpoint Security solutions
+Cloud Infrastructure Security
+Vulnerability Assessment
+
+Every security product will become an analytics product because of big data. New segments that deliver analytics will arise: user behavior analytics (UBA) and network. Machine learning - particularly in recognizing malicious and malware activity.
+
+2. Security automation: playing out on three fronts:
+in multiple segments that already enable or enhance automation for security. This came about because of a shortage of security folks and difficulty hiring.
+increasing penetration of tools specifically to support security process automation.
+continued advance of "new" IT
+
+
+Automation and security: 3 domains
+tools and techniques already in exiting segments
+systems management
+complex firewall management
+risk based authentication
+With IT ops: tickething and runbook automation
+New players arising to serve secp[x and process management across security and IT
+Security process automation - indiv tasks
+Orchestration: complex autom., multiple tasks
+automation native to cloud and devops environment
+
+The goal of automizing analytics:
+actionable situation awareness
+gathering: external intelligence
+policy-context
+monitoring - investigation
+Synthesis:
+better, more immedediate recognition of concerns across more data
+making the most of what machines and people each do best
+Response
+translating insight directly into action
+automation when it makes a difference
+
+Network security vendors will face the identity-aware perimeter
+Security spending on vendor-based tools:
+network security (firewalls, intrusion management, network based anti-malware)
+Endpoint security (anti virus, data leakage prevention)
+Security management (SIEM, vulnerability assessment)
+Application Security (DAST/SAST/WAF)
+
+
+
